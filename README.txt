@@ -1,0 +1,4 @@
+- Chager le document PDF avec mon vrai CV
+- Changer les textes avec mes infos qui correspond 
+- Mettre les bons projets 
+- Gérer les espaces entre les titres et les sections 
